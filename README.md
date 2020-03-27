@@ -31,7 +31,7 @@ You just need to run the following commands:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cristianojr9/be-the-hero
+$ git clone https://github.com/filetopaixao/Omnistack-11---Be-the-Hero.git
 
 # Install dependencies
 $ npm install
