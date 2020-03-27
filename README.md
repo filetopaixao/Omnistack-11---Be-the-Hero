@@ -9,7 +9,7 @@ Become the hero for someone or ask for help - Web application made with React
 
 🆘 About BeTheHero
 ------------------
-This project is a software that allows organizations to ask for help and share their necessities. The software has a [**web version**](https://github.com/cristianojr9/be-the-hero) made with ReactJS, where the organizations are able to create new incidents and manage them by deleting. The application also has a [**mobile version (currently in development)**](https://github.com/cristianojr9/be-the-hero-mobile) made with React Native, where anyone can access to know about the incidents and contact organizations to become a hero. All this software is served by a [**REST API**](https://github.com/Cristianojr9/be-the-hero/tree/master/backend) made with Node.js
+This project is a software that allows organizations to ask for help and share their necessities. The software has a [**web version**](https://github.com/filetopaixao/Omnistack-11---Be-the-Hero) made with ReactJS, where the organizations are able to create new incidents and manage them by deleting. The application also has a [**mobile version (currently in development)**](https://github.com/filetopaixao/Omnistack-11---Be-the-Hero/mobile) made with React Native, where anyone can access to know about the incidents and contact organizations to become a hero. All this software is served by a [**REST API**](https://github.com/filetopaixao/Omnistack-11---Be-the-Hero/backend) made with Node.js
 
 <img alt="1" src="https://user-images.githubusercontent.com/58868651/77576014-2a885300-6eb3-11ea-9597-325bcb1184a8.png">
 
@@ -40,13 +40,13 @@ $ npm install
 $ npm start
 ```
 
-Make sure you have the [**REST API**](https://github.com/Cristianojr9/be-the-hero/tree/master/backend) up and running.
+Make sure you have the [**REST API**](https://github.com/filetopaixao/Omnistack-11---Be-the-Hero/backend) up and running.
 
 
 :speech_balloon: Reach me
 ----------
 
-[*In case you want to reach me*](https://www.linkedin.com/in/cristianojr9/)
+[*In case you want to reach me*](https://www.linkedin.com/in/filetopaixao/)
 
 
 
