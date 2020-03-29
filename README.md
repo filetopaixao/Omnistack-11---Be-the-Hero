@@ -21,6 +21,7 @@ Here is a list of technlogies (at least what I remeber) that I used to develop t
 - [**Express**](https://expressjs.com/)
 - [**Knex**](http://knexjs.org/)
 - [**ReactJS**](https://reactjs.org/)
+- [**React Native**](https://reactnative.dev/)
 - [**React Icons**](https://react-icons.netlify.com/#/)
 - [**Axios**](https://github.com/axios/axios)
 
